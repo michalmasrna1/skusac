@@ -1,0 +1,335 @@
+RTT
+round trip time
+
+E2E
+end to end
+
+HbH
+hop by hop
+
+OSI
+open systems interconnection
+
+SNMP
+simple network management protocol
+
+SSH
+secure shell protocol
+
+ITU-T
+international telecommunications union - telecommunications standardization sector
+
+CCITT
+consultative committee for international telephony and telegraphy
+
+ISO
+international organization for standardization
+
+IEC
+international electrotechnical commission
+
+IEEE
+institute of electrical and electronics engineers
+
+ANSI
+american national standards institute
+
+IETF
+internet engineering task force
+
+RFC
+request for comments
+
+EIA
+electronics industry association
+
+NREN
+national research and education network
+
+MODEM
+modulator demodulator
+
+NRZ
+non return to zero
+
+FDM
+frequency division multiplexing
+
+WDM
+wave division multiplexing
+
+TDM
+time division multiplexing
+
+LAN
+local area network
+
+CRC
+cyclic redundancy check
+
+FEC
+forward error correction
+
+MAC
+media access control
+
+FDMA
+frequency division media access
+
+TDMA
+time division media access
+
+CSMA/CD
+carrier sense multiple access with collision detection
+
+CSMA/CA
+carrier sense multiple access with collision avoidance
+
+RTS/CTS
+ready to send clear to send
+
+STP
+spanning tree protocol
+
+BPDU
+bridge protocol data unit
+
+WAN
+wide area network
+
+MTU
+maximum transmission unit
+
+RARP
+reverse address resolution protocol
+
+ARP
+address resolution protocol
+
+IP
+internet protocol
+
+ICMP
+internet control message protocol
+
+CIDR
+classless inter domain routing
+
+RIR
+regional internet registry
+
+LIR
+local internet registry
+
+TTL
+time to live
+
+IANA
+internet assigned numbers authority
+
+NAT
+network address translation
+
+PAT
+port address translation
+
+DHCP
+dynamic host configuration protocol
+
+MPLS
+multiprotocol label switching
+
+RCC
+routing control center
+
+DV
+distance vector
+
+RIP
+routing information protocol
+
+LS
+link state
+
+OSPF
+open shortest path first
+
+ASN
+autonomous system number
+
+ICANN
+internet corporation for assigned names and numbers
+
+IGP
+interior gateway protocol
+
+EGP
+exterior gateway protocol
+
+BGP
+border gateway protocol
+
+PV
+path vector
+
+IGMP
+internet group management protocol
+
+DVMRP
+distance vector multicast routing protocol
+
+MOSPF
+multicast open shortest path first
+
+PIM-DM
+protocol independent multicast - dense mode
+
+PIM-SM
+protocol independent multicast - sparse mode
+
+CBT
+core based tree
+
+RP
+rendezvous point
+
+UDP
+user datagram protocol
+
+RTP
+real time transport protocol
+
+ARQ
+automatic repeat request
+
+TCP
+transmission control protocol
+
+MSS
+maximum segment size
+
+AIMD
+additive increase multiplicative decrease
+
+MIMD
+multiplicative increase multiplicative decrease
+
+HSTCP
+high speed tcp
+
+ECN
+early congestion notification
+
+AQM
+advanced queue management
+
+FAST
+fast aqm scalable tcp
+
+RBUDP
+reliable blast udp
+
+SCTP
+stream control transmission protocol
+
+QoS
+quality of service
+
+RED
+random early detection
+
+WRED
+weighted random early detection
+
+DS
+differentiated services
+
+IS
+integrated services
+
+RSVP
+resource reservation protocol
+
+YESSIR
+yet another sender session internet reservation
+
+ToS
+type of service
+
+TWS
+two way simultaneous
+
+TWA
+two way alternate
+
+SSL
+secure sockets layer
+
+TLS
+transport layer security
+
+ASN
+abstract syntax notation
+
+ASCII
+american standard code for information interchange
+
+P2P
+peer to peer
+
+DNS
+domain name system
+
+HTTP
+hypertext transfer protocol
+
+URL
+uniform resource locator
+
+SMTP
+simple mail transfer protocol
+
+POP
+post office protocol
+
+IMAP
+internet message access protocol
+
+MTA
+mail transfer agent
+
+FTP
+file transfer protocol
+
+AAA
+authentication authorization accounting
+
+AH
+authentication header
+
+ESP
+encapsulating security payload
+
+SA
+security association
+
+ISAKMP
+internet security association and key management protocol
+
+IKE
+internet key exchange
+
+RON
+resilient overlay network
+
+DHT
+distributed hash table
+
+MANET
+mobile ad hoc network
+
+VANET
+vehicular ad hoc network
+
+WSN
+wireless sensor network

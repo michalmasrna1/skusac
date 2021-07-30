@@ -1,0 +1,119 @@
+1. What are the roles of an operating system? (6)
+1. interact with the user
+2. manage and multiplex hardware
+3. manage other software
+4. organises and manages data
+5. provides services for other programs
+6. enforces security
+
+2. What are the basic components of an OS? (5)
+1. the kernel
+2. system libraries
+3. system daemons / services
+4. user interface
+5. system utilities
+
+3. What is an operating system kernel? (5)
+1. lowest level of an operating system
+2. executes in privileged mode
+3. manages basic hardware (memory, processor) and all the other software (including other OS components)
+4. enforces isolation and security
+5. provides low-level services to programs
+
+4. What are API and ABI?
+API (Application Programming Interface) is the functionality that application programs can obtain from the operating system
+Those subroutines often further communicate with the kernel, using a system-specific low-level protocol: this protocol is known as the ABI (Application Binary Interface) of the kernel.
+kernel provides system calls
+    ABI: Application Binary Interface
+    defined in terms of machine instructions
+system libraries provide APIs
+    Application Programming Interface
+    symbolic / high-level interfaces
+    typically defined in terms of C functions
+    system calls also available as an API
+
+5. What is a shared (dynamic) library? (5)
+required for running programs
+linking is done at execution time
+less code duplication
+can be upgraded separately
+but: dependency problems
+
+6. What does a linker do?
+• object files are incomplete
+• they can refer to symbols that they do not define
+    ∘ the definitions can be in libraries
+    ∘ or in other object files
+• a linker puts multiple object files together
+    ∘ to produce a single executable
+    ∘ or maybe a shared library
+---
+• the linker processes one object file at a time
+• it maintains a symbol table
+    ∘ mapping symbols (names) to addresses
+    ∘ dynamically updated as more objects are processed
+• relocations are typically processed all at once at the end
+• resolving symbols = finding their addresses
+
+7. What is a symbol in an object file?
+However, when humans write programs, they do not assign addresses
+to pieces of data, to functions or to individual instructions. Instead, if
+the program needs to refer to a part of itself, we give those parts names:
+those names are known as symbols. It is the shared responsibility of the
+compiler and the linker to assign addresses to the individual symbols, in
+such a way that the objects stored in memory do not conflict (overlap).
+
+8. What is a file descriptor?
+the kernel keeps a table of open files
+the file descriptor is an index into this table
+you do everything using file descriptors
+non-Unix systems have similar concepts
+∘ descriptors are called handles on Windows
+
+9. What CPU modes are there and how are they used?
+CPU Modes
+• CPUs provide a privileged (supervisor) and a user mode
+• this is the case with all modern general-purpose CPUs
+    ∘ not necessarily with micro-controllers
+• x86 provides 4 distinct privilege levels
+    ∘ most systems only use ring 0 and ring 3
+    ∘ Xen paravirtualisation uses ring 1 for guest kernels
+---
+Privileged Mode
+• many operations are restricted in user mode
+    ∘ this is how user programs are executed
+    ∘ also most of the operating system
+• software running in privileged mode can do ~anything
+    ∘ most importantly it can program the MMU
+    ∘ the kernel runs in this mode
+
+10. What is the memory management unit?
+Memory Management Unit
+• is a subsystem of the processor
+• takes care of address translation
+    ∘ user software uses virtual addresses
+    ∘ the MMU translates them to physical addresses
+• the mappings can be managed by the OS kernel
+
+11. What is a microkernel?
+Microkernel
+• handles memory protection
+• (hardware) interrupts
+• task / process scheduling
+• message passing
+• everything else is separate
+
+12. What is a system call?
+System Calls
+• hand off execution to a kernel routine
+• pass arguments into the kernel
+• obtain return value from the kernel
+• all of this must be done safely
+
+13.What is a block device?
+
+14.What is an IO scheduler?
+
+15.What does memory-mapped IO mean?
+
+16.What is an i-node?
