@@ -690,6 +690,9 @@ montana
 which
 cuál
 
+who
+quién
+
 ago
 hace
 
@@ -707,8 +710,6 @@ viaje
 
 pie
 empanada
-
-#!START
 
 viajar
 viajé; viajaste; viajó; viajamos; viajaron
@@ -742,3 +743,6 @@ pues
 
 owl
 búho
+
+fish
+pez, pescado
