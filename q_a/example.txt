@@ -1,0 +1,18 @@
+#!START
+
+Question 1?
+Answer No. 1.
+
+Question 2
+multiline
+answer
+number 2
+
+Third question, Question No. 3
+multiple correct answers, multiple correct questions
+
+#!END
+
+Question which will not be asked, because it comes after the END
+    Formatted answer
+    Spaces are stripped from both sides
