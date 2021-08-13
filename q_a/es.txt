@@ -70,9 +70,6 @@ precio
 to bring
 traer
 
-would like
-quisiera
-
 together
 juntas, juntes
 
@@ -451,8 +448,6 @@ mano
 key
 llave
 
-#!START
-
 mine
 míos
 
@@ -529,7 +524,7 @@ everybody
 todo el mundo
 
 would like
-gustaria
+gustaria, quisiera
 
 to come
 venir
@@ -746,3 +741,6 @@ búho
 
 fish
 pez, pescado
+
+pancakes
+crepes
