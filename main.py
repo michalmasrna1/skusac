@@ -2,29 +2,11 @@ from typing import List, Tuple, Optional
 from random import randint, choice, shuffle
 from os import path
 
+from settings import *
+from characters import CHARACTERS
+
 Question = Tuple[str, str]
 Q_A = List[Question]
-
-REVERSED = 0
-ONE_WAY = 1
-TWO_WAY = 2
-RANDOM = 0
-QUEUE = 1
-DISTRIBUTED = 2
-Q_A_DIR = 'q_a'
-Q_A_FILENAME = 'es.txt'
-DIRECTION = ONE_WAY
-EXAM_MODE = DISTRIBUTED
-STRICT_MODE = False
-
-CHARACTERS = {
-    'á': 'a',
-    'é': 'e',
-    'í': 'i',
-    'ó': 'o',
-    'ú': 'u',
-    'ň': 'n'
-}
 
 
 def load_q_a(filename: str) -> Q_A:
@@ -94,7 +76,8 @@ def check_answer(response: str, answer: str) -> bool:
     if not STRICT_MODE:
         answer = normalize(answer)
         response = normalize(response)
-    answers = answer.split(', ')
+    answers = answer.split(',')
+    answers = [ans.strip() for ans in answers]
     if response in answers:
         print(f"\033[92m{answer_orig}\033[00m")
         return True
