@@ -1,0 +1,284 @@
+GDPR
+general data protection regulation
+
+ID
+identity document
+
+CC
+common criteria
+
+TOE
+target of evaluation
+
+TSF
+toe security functions
+
+TSC
+tsf scope of control
+
+IOI
+item of interest
+
+DPO
+data protection office
+
+DPA
+data protection authority
+
+ACM
+association for computing machinery
+
+PT
+plaintext
+
+CT
+ciphertext
+
+MAC
+message authentication code
+
+RNG
+random number generator
+
+OTP
+one time pad
+
+IV
+initialization vector
+
+CSPRNG
+cryptographically secure pseudorandom number generator
+
+SAC
+strict avalanche criterion
+
+AES
+advanced encryption standard
+
+DES
+data encryption standard
+
+CHF
+cryptographic hash function
+
+POK
+proof of knowledge
+
+SSL
+secure sockets layer
+
+TLS
+transport layer security
+
+RSA
+rivest shamir adleman
+
+LUT
+lookup table
+
+SPN
+substitution permutation network
+
+DEA
+data encryption algorithm
+
+EFF
+electronic frontier foundation
+
+CTR
+counter
+
+GCM
+galois counter mode
+
+ECB
+electronic codebook
+
+CBC
+cipher block chaining
+
+SHA
+secure hash algorithm
+
+MD5
+message digest algorithm 5
+
+AEAD
+authenticated encryption with associated data
+
+DSA
+digital signature algorithm
+
+DLP
+discrete logarithm problem
+
+ECDSA
+elliptic curve digital signature algorithm
+
+SVP
+shortest vector problem
+
+MSB
+most significant bit
+
+ECC
+elliptic curve cryptography
+
+DHE
+diffie hellman ephemeral
+
+DSS
+digital signature standard
+
+PGP
+pretty good privacy
+
+GPG
+gnu privacy guard
+
+CA
+certification authority
+
+CRL
+certificate revocation list
+
+TOFU
+trust on first use
+
+COFU
+check on first use
+
+OCSP
+online certificate status protocol
+
+PKI
+public key infrastructure
+
+RA
+revocation authority
+
+eIDAS
+electronic identification authentication and trust services
+
+TVP
+time variant parameters
+
+STS
+station to station
+
+KDC
+key distribution center
+
+KTC
+key translation center
+
+MITM
+man in the middle
+
+AS
+authentication server
+
+TGT
+ticket granting ticket
+
+PSK
+preshared key
+
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+transport layer security elliptic curve diffie hellman ephemeral rivest shamir adleman with advanced encryption standard 128 galois counter mode secure hash algorithm 256
+
+MFA
+multifactor authentication
+
+SSO
+single sign on
+
+FTE
+failure to enrol
+
+FTC
+failure to capture
+
+RBAC
+role based access control
+
+IDAM
+identity and access management
+
+SAML
+security assertion markup language
+
+SPML
+service provisioning markup language
+
+DDOS
+distributed denial of service
+
+STRIDE
+spoofing tampering repudiation information disclosure denial of service escalation of privilege
+
+IDS
+intrusion detection system
+
+IPS
+intrusion prevention system
+
+CVE
+common vulnerabilities and exposures
+
+CWE
+common weakness enumeration
+
+DEP
+data execution protection
+
+ASLR
+address space layout randomization
+
+ROP
+return oriented programming
+
+NRU
+no read up
+
+NWD
+no write down
+
+ALE
+annual loss expectancy
+
+NIST
+national institute of standards and technology
+
+ISMS
+information security management system
+
+PDCA
+plan do check act
+
+BCP
+business continuity planning
+
+RPO
+recovery point objective
+
+RTO
+recovery time objective
+
+NEAT
+necessary explained actionable tested
+
+SPRUCE
+source process risk unique knowledge choices evidence
+
+ISO
+international organization for standardization
+
+IEC
+international electrotechnical commission
+
+IETF
+internet engineering task force
+
+ST
+security target
