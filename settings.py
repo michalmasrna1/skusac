@@ -17,7 +17,7 @@ RANDOM, QUEUE, DISTRIBUTED = 0, 1, 2
 Q_A_DIR = 'q_a'
 
 # Q_A_FILENAME - the name of the text file containing the question answer pairs
-Q_A_FILENAME = 'example .txt'
+Q_A_FILENAME = 'example.txt'
 
 ###############################################################################
 # EXAM SETTINGS
