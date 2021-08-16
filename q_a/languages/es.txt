@@ -1,3 +1,12 @@
+brunette
+moreno
+
+blonde
+rubio
+
+shelve
+estantería
+
 I feel
 me siento
 
@@ -605,10 +614,10 @@ to sit down
 sentarse
 
 over there
-allá
+allá, allí
 
 here
-acá
+acá, aquí
 
 seventy
 setenta
@@ -744,3 +753,66 @@ pez, pescado
 
 pancakes
 crepes
+
+okay
+vale
+
+nice to meet you
+encantado
+
+cheers
+salud
+
+to mean
+significar
+
+excellent
+estupendo
+
+no worries
+no pasa nada
+
+help
+socorro
+
+to let
+dejarse
+
+peace
+paz
+
+luck
+suerte
+
+likewise
+igualmente
+
+sure
+claro
+
+crap
+mierda
+
+neither
+tampoco
+
+pity, shame
+pena
+
+congratulations
+enhorabuena
+
+maybe
+a lo mejor
+
+United Kingdom
+Reino Unido
+
+to work as
+dedicarse a
+
+by the way
+por cierto
+
+school
+escuela, colegio
