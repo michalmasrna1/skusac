@@ -816,3 +816,15 @@ por cierto
 
 school
 escuela, colegio
+
+quiet
+tranquilo
+
+to stroll
+pasear
+
+discount
+descuento
+
+neighborhood
+barrio
