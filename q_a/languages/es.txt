@@ -55,7 +55,7 @@ cuándo
 to go shopping
 ir de compras
 
-to move, to thrill
+to excite, to thrill
 emocionar
 
 to leave
@@ -730,6 +730,11 @@ estuve; estuviste; estuvo; estuvimos; estuvieron
 ir
 fui; fuiste; fue; fuimos; fueron
 
+#!START
+
+hacer
+hice; hiciste; hizo; hicimos; hicieron
+
 cow
 vaca
 
@@ -754,13 +759,13 @@ pez, pescado
 pancakes
 crepes
 
-okay
+ok, okay
 vale
 
-nice to meet you
+pleased to meet you
 encantado
 
-cheers
+health
 salud
 
 to mean
@@ -773,7 +778,7 @@ no worries
 no pasa nada
 
 help
-socorro
+socorro, ayuda
 
 to let
 dejarse
@@ -828,3 +833,60 @@ descuento
 
 neighborhood
 barrio
+
+posh, fancy
+pijo
+
+shabby, grotty
+cutre
+
+cool
+guay
+
+atmosphere
+ambiente
+
+club
+discoteca
+
+trendy, hip
+de moda
+
+full, filled
+lleno
+
+sounds good
+suena bien
+
+to sound
+sonar
+
+pickpocket
+carterista
+
+careful
+cuidado
+
+market
+mercado
+
+snow
+nieve
+
+last night
+anoche
+
+dear
+querido
+
+boat
+barco
+
+to forget
+olvidar
+
+rain
+lluvia
+
+dangerous
+peligroso
