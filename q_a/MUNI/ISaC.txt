@@ -25,8 +25,8 @@ data protection office
 DPA
 data protection authority
 
-ACM
-association for computing machinery
+ACM CoEPC
+association for computing machinery code of ethics and professional conduct
 
 PT
 plaintext
