@@ -233,7 +233,7 @@ to return, to go back
 volver
 
 to start
-empezar
+empezar, comenzar
 
 to lose
 perder
@@ -344,7 +344,7 @@ fat
 gordo
 
 next
-próximo
+próximo, siguiente
 
 airplane
 avión
@@ -374,7 +374,7 @@ eye
 ojo
 
 hot, warm
-caliente
+caliente, caluroso
 
 flower
 flor
@@ -614,7 +614,7 @@ to sit down
 sentarse
 
 over there
-allá, allí
+allá, allí, ahí
 
 here
 acá, aquí
@@ -738,7 +738,7 @@ hice; hiciste; hizo; hicimos; hicieron
 cow
 vaca
 
-so
+so, then
 entonces
 
 really
@@ -882,11 +882,144 @@ querido
 boat
 barco
 
-to forget
-olvidar
-
 rain
 lluvia
 
 dangerous
 peligroso
+
+#!START
+
+to choose
+elegir
+
+nobody
+nadie
+
+none of
+ningún, ninguno, ninguna
+
+any
+algún, alguno, alguna
+
+last (at the end)
+último
+
+poor
+pobre
+
+third
+tercero
+
+to forget
+olvidar
+
+second
+segundo
+
+great
+gran
+
+two hundred
+doscientos
+
+life
+vida
+
+hard
+duro
+
+sentence
+oración
+
+funny
+gracioso, divertido
+
+ad
+anuncio
+
+weather
+clima, tiempo
+
+to meet up
+encontrarse
+
+tree
+árbol
+
+there is going to be
+va a haber
+
+#!START
+
+sunny
+soleado
+
+nationality
+nacionalidad
+
+to smoke
+fumar
+
+anyone
+alguien
+
+five hundred
+quinientos
+
+venir
+vine; viniste; vino; vinimos; vinieron
+
+noise
+ruido
+
+example
+ejemplo
+
+to stop
+parar
+
+to die
+morir
+
+mouth
+boca
+
+to wake up
+despertarse
+
+body
+cuerpo
+
+on top of
+encima de
+
+nose
+nariz
+
+to get together
+quedar
+
+to hear
+oir
+
+head
+cabeza
+
+arm
+brazo
+
+leg
+pierna
+
+to remember
+acordarse
+
+to finish
+acabar
+
+to dream
+soňar
+
+beard
+barba
