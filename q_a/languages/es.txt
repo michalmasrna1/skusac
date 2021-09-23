@@ -562,9 +562,6 @@ papel
 ticket, entrance
 entrada
 
-to remember
-recordar
-
 to find
 encontrar
 
@@ -1013,7 +1010,7 @@ leg
 pierna
 
 to remember
-acordarse
+acordarse, recordar
 
 to finish
 acabar
