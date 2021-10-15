@@ -80,7 +80,7 @@ to bring
 traer
 
 together
-juntas, juntes
+juntas, juntes, juntos
 
 size
 talla
@@ -605,7 +605,7 @@ bedrooms
 cuartos
 
 to take
-coger
+coger, tomar
 
 to sit down
 sentarse
@@ -697,7 +697,7 @@ quién
 ago
 hace
 
-last
+last (latest)
 pasado
 
 seriously
@@ -727,10 +727,10 @@ estuve; estuviste; estuvo; estuvimos; estuvieron
 ir
 fui; fuiste; fue; fuimos; fueron
 
-#!START
-
 hacer
 hice; hiciste; hizo; hicimos; hicieron
+
+#!START
 
 cow
 vaca
@@ -744,7 +744,7 @@ de veras, de verdad
 pig
 cerdo
 
-well
+well, well then
 pues
 
 owl
@@ -885,8 +885,6 @@ lluvia
 dangerous
 peligroso
 
-#!START
-
 to choose
 elegir
 
@@ -911,7 +909,7 @@ tercero
 to forget
 olvidar
 
-second
+second (2.)
 segundo
 
 great
@@ -946,8 +944,6 @@ tree
 
 there is going to be
 va a haber
-
-#!START
 
 sunny
 soleado
@@ -1020,3 +1016,15 @@ soňar
 
 beard
 barba
+
+smile
+sonrisa
+
+to offer
+ofrecer
+
+God
+Dios
+
+neighbor
+vecino
