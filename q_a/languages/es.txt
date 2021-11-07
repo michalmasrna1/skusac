@@ -4,7 +4,7 @@ moreno
 blonde
 rubio
 
-shelve
+shelf
 estantería
 
 I feel
@@ -136,7 +136,7 @@ gente
 place
 sitio, lugar
 
-some
+some (plural)
 algunos
 
 to love
@@ -148,7 +148,7 @@ enseňar
 to see
 ver
 
-too
+too much
 demasiado
 
 thirst, thirsty
@@ -215,7 +215,7 @@ shower, to shower
 ducharse
 
 every
-cada, todos los
+cada, todo
 
 to get up
 levantarse
@@ -416,7 +416,7 @@ butter
 mantequilla
 
 vegetable
-vegetal
+vegetal, verdura
 
 sausage
 chorizo
@@ -514,7 +514,7 @@ paquete
 sauce
 salsa
 
-light
+light (not heavy)
 ligero
 
 date
@@ -600,9 +600,6 @@ pared
 
 safe
 seguro
-
-bedrooms
-cuartos
 
 to take
 coger, tomar
@@ -729,8 +726,6 @@ fui; fuiste; fue; fuimos; fueron
 
 hacer
 hice; hiciste; hizo; hicimos; hicieron
-
-#!START
 
 cow
 vaca
@@ -1008,7 +1003,7 @@ pierna
 to remember
 acordarse, recordar
 
-to finish
+to finish, to have just
 acabar
 
 to dream
