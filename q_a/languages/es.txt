@@ -458,7 +458,7 @@ key
 llave
 
 mine
-míos
+mío
 
 hair
 cabello
@@ -551,7 +551,7 @@ to think
 pensar
 
 later
-luego
+luego, después, más tarde
 
 to fly
 volar
