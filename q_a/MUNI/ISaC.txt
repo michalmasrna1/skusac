@@ -137,7 +137,7 @@ GPG
 gnu privacy guard
 
 CA
-certification authority
+certification authority, certificate authority
 
 CRL
 certificate revocation list

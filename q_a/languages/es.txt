@@ -1023,3 +1023,47 @@ Dios
 
 neighbor
 vecino
+
+#!START
+
+ver
+vi; viste; vio; vimos; vieron
+
+to hate
+odiar
+
+to go to bed
+acostarse
+
+gym
+gimnasio
+
+once in a while
+de vez en cuando
+
+never
+jamás, nunca
+
+available
+dispondible
+
+meeting
+reunión
+
+company
+empresa
+
+forest
+bosque
+
+cookie
+galleta
+
+student
+alumno, estudiante
+
+kind
+amable
+
+skateboard
+patineta
