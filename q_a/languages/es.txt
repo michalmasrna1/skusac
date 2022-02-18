@@ -1024,10 +1024,10 @@ Dios
 neighbor
 vecino
 
-#!START
-
 ver
 vi; viste; vio; vimos; vieron
+
+#!START
 
 to hate
 odiar
@@ -1067,3 +1067,24 @@ amable
 
 skateboard
 patineta
+
+roasted, grilled
+asado
+
+oil
+aceite
+
+break
+descanso
+
+show
+espectáculo
+
+theater play
+obra de teatro
+
+lake
+lago
+
+unfortunately
+desafortunadamente
