@@ -629,7 +629,7 @@ thousand
 mil
 
 to send
-mandar
+mandar, enviar
 
 to give
 dar
@@ -1126,10 +1126,61 @@ mirror
 espejo
 
 armchair
-sillone
+sillón
 
 to turn on
 encender
 
 washing machine
 lavadora
+
+neck
+cuello
+
+back
+espalda
+
+to hurt
+dolerse
+
+one must
+hay que
+
+soap
+jabón
+
+nurse
+enfermero
+
+pain
+dolor
+
+stomach
+estómago
+
+pale
+pálido
+
+channel
+canal
+
+machine
+maquina
+
+file
+archivo
+
+magazine
+revista
+
+strong
+fuerte
+
+useful
+útil
+
+heavy
+pesado
+
+bear
+oso
