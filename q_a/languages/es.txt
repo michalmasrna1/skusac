@@ -797,7 +797,7 @@ pity, shame
 pena
 
 congratulations
-enhorabuena
+enhorabuena, te felicito
 
 maybe
 a lo mejor
@@ -1027,8 +1027,6 @@ vecino
 ver
 vi; viste; vio; vimos; vieron
 
-#!START
-
 to hate
 odiar
 
@@ -1184,3 +1182,30 @@ pesado
 
 bear
 oso
+
+to pass
+aprobar
+
+chemistry
+química
+
+to win
+ganar
+
+team
+equipo
+
+runner
+corredor
+
+race
+carrera
+
+soda
+refresco
+
+cartoon
+dibujo animado
+
+playground
+patio de juego
