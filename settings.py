@@ -32,7 +32,7 @@ DIRECTION = ONE_WAY
 
 # EXAM_MODE - decides how the pool of questions is generated and maintained
 #   RANDOM - each question is picked separately, at random from the entire set
-#   QUEUE - the questions are shuffled at the beginning an then asked each once
+#   QUEUE - the questions are shuffled at the beginning and then asked each once
 #   DISTRIBUTED - the pool is created in the same way as in the QUEUE option,
 #      but for each mistake, three copies of the question are added to the pool
 
