@@ -1,0 +1,113 @@
+ruka
+gana
+
+noha
+bute
+
+torzo
+pafi
+
+pohyb
+vada
+
+hore
+fuje
+
+pred
+kuli
+
+pravo
+mogu
+
+nie
+de
+
+zaciatok
+pal
+
+stred
+sale
+
+stop
+devada
+
+koniec
+depal
+
+lavo
+demogu
+
+zad
+dekuli
+
+dole
+defuje
+
+ano
+dede
+
+hlava
+pafidepal
+
+vlasy
+pafidepaldepal
+
+chrbat
+pafidekuli
+
+brucho, hrud
+pafikuli
+
+zadok
+butepals, pafipal
+
+dlan
+ganadepal
+
+prsty (na rukach)
+ganadepaldepal
+
+nechty (na rukach)
+ganadepaldepaldepal
+
+chodidlo
+butedepal
+
+prsty (na nohach)
+butedepaldepal
+
+nechty (na nohach)
+butedepaldepaldepal
+
+laket
+ganasale
+
+koleno
+butesale
+
+skok
+vadafuje
+
+krok
+vadakuli
+
+krok vzad
+vadadekuli
+
+klak
+butesalesdefuje
+
+lah na chrbte
+pafidekulidefuje
+
+lah na bruchu
+pafikulidefuje
+
+sed
+butepalsdefuje, pafipaldefuje
+
+otoc sa doprava
+vadamogu
+
+otoc sa dolava
+vadademogu
