@@ -1,0 +1,53 @@
+pánty
+hinges
+
+zábrana proti slnku
+sun visor
+
+skrinka s poistkami
+fusebox
+
+smerovky
+indicators
+
+výfuk
+tail pipe
+
+veko kufra
+trunk lid
+
+uzáver palivovej nádrže
+fuel filler cap, fuel tank cap
+
+plyn
+throttle
+
+hnací hriadeľ
+drive shaft
+
+spojková lamela
+clutch plate
+
+ECU
+electronic control unit
+
+ABS
+anti-lock braking system
+
+prítlačná podložka
+thrust washer
+
+kľukový hriadeľ
+crankshaft
+
+vačkový hriadeľ
+camshaft
+
+PCVV
+positive crankcase ventilation valve
+
+EGR
+exhaust gas recirculation
+
+katalyzátor
+catalytic converter
