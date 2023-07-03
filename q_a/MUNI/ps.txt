@@ -16,12 +16,6 @@ simple network management protocol
 SSH
 secure shell protocol
 
-ITU-T
-international telecommunications union - telecommunications standardization sector
-
-CCITT
-consultative committee for international telephony and telegraphy
-
 ISO
 international organization for standardization
 
@@ -39,12 +33,6 @@ internet engineering task force
 
 RFC
 request for comments
-
-EIA
-electronics industry association
-
-NREN
-national research and education network
 
 MODEM
 modulator demodulator
@@ -90,9 +78,6 @@ ready to send clear to send
 
 STP
 spanning tree protocol
-
-BPDU
-bridge protocol data unit
 
 WAN
 wide area network
@@ -154,9 +139,6 @@ link state
 OSPF
 open shortest path first
 
-ASN
-autonomous system number
-
 ICANN
 internet corporation for assigned names and numbers
 
@@ -189,9 +171,6 @@ protocol independent multicast - sparse mode
 
 CBT
 core based tree
-
-RP
-rendezvous point
 
 UDP
 user datagram protocol
@@ -256,20 +235,11 @@ yet another sender session internet reservation
 ToS
 type of service
 
-TWS
-two way simultaneous
-
-TWA
-two way alternate
-
 SSL
 secure sockets layer
 
 TLS
 transport layer security
-
-ASN
-abstract syntax notation
 
 ASCII
 american standard code for information interchange
@@ -295,9 +265,6 @@ post office protocol
 IMAP
 internet message access protocol
 
-MTA
-mail transfer agent
-
 FTP
 file transfer protocol
 
@@ -318,9 +285,6 @@ internet security association and key management protocol
 
 IKE
 internet key exchange
-
-RON
-resilient overlay network
 
 DHT
 distributed hash table
