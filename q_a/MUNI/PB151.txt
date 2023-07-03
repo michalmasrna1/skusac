@@ -1,0 +1,77 @@
+bit
+binary digit
+
+ASCII
+American Standard Code for Information Interchange
+
+BCD
+Binary Coded Decimal
+
+BCDIC
+Binary Coded Decimal Interchange Code, BCD Interchange Code
+
+EBCDIC
+Extended Binary Coded Decimal Interchange Code, Extended BCDIC
+
+CR
+Carriage Return
+
+LF
+Line Feed
+
+MIME
+Multipurpose Internet Mail Extensions
+
+UTF
+Unicode Transformation Format
+
+BOM
+Byte Order Mark
+
+RWM
+Read Write Memory
+
+RAM
+Random Access Memory
+
+ROM
+Read Only Memory
+
+PROM
+Programmable Read Only Memory, Programmable ROM
+
+EPROM
+Erasable Programmable Read Only Memory, Erasable PROM
+
+EEPROM
+Electrically Erasable Programmable Read Only Memory, Electrically EPROM
+
+RMM
+Read Mostly Memory
+
+CAM
+Contents Addressable Memory
+
+PC
+Program Counter
+
+IP
+Instruction Pointer
+
+ESP
+Extended Stack Pointer
+
+TLB
+Translation Look-aside Buffer
+
+CISC
+Complex Instruction Set Computer
+
+RISC
+Reduced Instruction Set Computer
+
+USB
+Universal Serial Bus
+
+NRZ
+non return to zero
