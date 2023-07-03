@@ -86,7 +86,7 @@ MTU
 maximum transmission unit
 
 RARP
-reverse address resolution protocol
+reverse address resolution protocol, reverse ARP
 
 ARP
 address resolution protocol
@@ -206,7 +206,7 @@ FAST
 fast aqm scalable tcp
 
 RBUDP
-reliable blast udp
+reliable blast udp, reliable blast user datagram protocol
 
 SCTP
 stream control transmission protocol
@@ -218,7 +218,7 @@ RED
 random early detection
 
 WRED
-weighted random early detection
+weighted random early detection, weighted RED
 
 DS
 differentiated services
