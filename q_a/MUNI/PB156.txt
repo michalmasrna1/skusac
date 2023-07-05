@@ -124,6 +124,9 @@ dynamic host configuration protocol
 MPLS
 multiprotocol label switching
 
+LDP
+label distribution protocol
+
 RCC
 routing control center
 
@@ -138,6 +141,9 @@ link state
 
 OSPF
 open shortest path first
+
+IS-IS
+intermediate system to intermediate system
 
 ICANN
 internet corporation for assigned names and numbers
@@ -297,3 +303,9 @@ vehicular ad hoc network
 
 WSN
 wireless sensor network
+
+DAD
+duplicate address detection
+
+CAN
+content addressable network
