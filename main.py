@@ -111,7 +111,7 @@ def main() -> None:
 
     while True:
         question, answer = get_question_answer(q_a, pool, last_question, correct, EXAM_MODE)
-        last_question = (question, answer)
+        last_question = (question, answer)  # TODO: this does not work correctly with TWO_WAY direction
 
         if DIRECTION == TWO_WAY and randint(0, 1) or DIRECTION == REVERSED:
             question, answer = answer, question
