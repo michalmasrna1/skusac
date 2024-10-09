@@ -200,7 +200,7 @@ MIMD
 multiplicative increase multiplicative decrease
 
 HSTCP
-high speed tcp
+high speed tcp, high speed transmission control protocol
 
 ECN
 early congestion notification
