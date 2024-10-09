@@ -61,11 +61,14 @@ def get_question_answer(q_a: Q_A, pool: Q_A, last_question: Optional[Question], 
 def normalize(string: str) -> str:
     string = string.lower()
     new_string = ''
+    prev_char = ''
     for char in string:
         if char in CHARACTERS:
             new_string += CHARACTERS[char]
         else:
-            new_string += char
+            if not char.isspace() and not char == prev_char:
+                new_string += char
+        prev_char = char
     return new_string
 
 
