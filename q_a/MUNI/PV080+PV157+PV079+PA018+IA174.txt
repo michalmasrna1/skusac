@@ -23,7 +23,7 @@ DPO
 data protection office
 
 DPA
-data protection authority
+data protection authority, differential power analysis
 
 ACM CoEPC
 association for computing machinery code of ethics and professional conduct
@@ -50,7 +50,7 @@ CSPRNG
 cryptographically secure pseudorandom number generator
 
 SAC
-strict avalanche criterion
+strict avalanche criterion, supplemental access control
 
 AES
 advanced encryption standard
@@ -96,6 +96,12 @@ electronic codebook
 
 CBC
 cipher block chaining
+
+CFB
+cipher feedback
+
+OFB
+output feedback
 
 SHA
 secure hash algorithm
@@ -199,6 +205,9 @@ failure to enrol
 FTC
 failure to capture
 
+FTA
+failure to acquire
+
 RBAC
 role based access control
 
@@ -221,7 +230,7 @@ IDS
 intrusion detection system
 
 IPS
-intrusion prevention system
+intrusion prevention system, interactive proof system
 
 CVE
 common vulnerabilities and exposures
@@ -282,3 +291,89 @@ internet engineering task force
 
 ST
 security target
+
+PIN
+personal identification number
+
+NTLM
+new technology LAN manager, new technology local are network manager
+
+HSM
+hardware security module
+
+FIDO
+fast identity online
+
+ACL
+access control list
+
+ACE
+access control element
+
+MLS
+multilevel system, multilevel security, multiple levels of security
+
+GSM
+
+LTE
+long-term evolution
+
+SIM
+subscriber identity module
+
+RFID
+radio frequency identification
+
+SDA
+static data authentication
+
+DDA
+dynamic data authentication
+
+BAC
+basic access control
+
+LFSR
+linear feedback shift register
+
+BBS
+blum blum shub
+
+PKCS
+public key cryptography standards
+
+EKE
+encrypted key exchange
+
+TPM
+trusted platform module
+
+TOR
+the onion router
+
+SPA
+simple power analysis
+
+CPA
+correlation power analysis
+
+SCADA
+supervisory control and data acquisition
+
+SOHO
+small office home office
+
+BAS
+building automation system
+
+BMS
+building management system
+
+PLC
+programmable logical controller
+
+CEP
+complex event processing
+
+FDH
+full domain hash
