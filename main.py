@@ -75,18 +75,32 @@ def normalize(string: str) -> str:
 def check_answer(response: str, answer: str) -> bool:
     if response == answer:
         return True
-    answer_orig = answer
-    if not STRICT_MODE:
-        answer = normalize(answer)
-        response = normalize(response)
-    answers = answer.split(',')
-    answers = [ans.strip() for ans in answers]
-    if response in answers:
-        print(f"\033[92m{answer_orig}\033[00m")
+    if STRICT_MODE:
+        print(f"\033[91m{answer}\033[00m")
+        return False
+    answers = [normalize(ans) for ans in answer.split(',')]
+    response = normalize(response)
+    if can_be_in(answers, response):
+        print(f"\033[92m{answer}\033[00m")
         return True
     else:
-        print(f"\033[91m{answer_orig}\033[00m")
+        print(f"\033[91m{answer}\033[00m")
         return False
+
+
+def can_be_in(answers: list[str], response: str) -> bool:
+    for answer in answers:
+        if is_close_enough(answer, response):
+            return True
+    return False
+
+
+def is_close_enough(answer: str, response: str):
+    # TODO: check if there is a character missing
+    # TODO: check if there is an extra character
+    # TODO: check if two characters are not swapped
+    # TODO: check if there is a simple typo
+    return abs(len(answer) - len(response)) <= 1
 
 
 def main() -> None:
