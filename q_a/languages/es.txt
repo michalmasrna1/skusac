@@ -407,7 +407,7 @@ to buy groceries
 hacer la compra
 
 potato
-papa
+papa, patata
 
 egg
 huevo
