@@ -710,22 +710,22 @@ pie
 empanada
 
 viajar
-viajé; viajaste; viajó; viajamos; viajaron
+viajé; viajaste; viajó; viajamos; viajasteis; viajaron
 
 comer
-comí; comiste; comió; comimos; comieron
+comí; comiste; comió; comimos; comisteis; comieron
 
 vivir
-viví; viviste; vivió; vivimos; vivieron
+viví; viviste; vivió; vivimos; vivisteis; vivieron
 
 estar
-estuve; estuviste; estuvo; estuvimos; estuvieron
+estuve; estuviste; estuvo; estuvimos; estuvisteis; estuvieron
 
 ir
-fui; fuiste; fue; fuimos; fueron
+fui; fuiste; fue; fuimos; fuisteis; fueron
 
 hacer
-hice; hiciste; hizo; hicimos; hicieron
+hice; hiciste; hizo; hicimos; hicisteis; hicieron
 
 cow
 vaca
@@ -956,7 +956,7 @@ five hundred
 quinientos
 
 venir
-vine; viniste; vino; vinimos; vinieron
+vine; viniste; vino; vinimos; vinisteis; vinieron
 
 noise
 ruido
@@ -1025,7 +1025,7 @@ neighbor
 vecino
 
 ver
-vi; viste; vio; vimos; vieron
+vi; viste; vio; vimos; visteis; vieron
 
 to hate
 odiar
