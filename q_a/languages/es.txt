@@ -709,22 +709,22 @@ viaje
 pie
 empanada
 
-viajar
+viajar (preterite)
 viajé; viajaste; viajó; viajamos; viajasteis; viajaron
 
-comer
+comer (preterite)
 comí; comiste; comió; comimos; comisteis; comieron
 
-vivir
+vivir (preterite)
 viví; viviste; vivió; vivimos; vivisteis; vivieron
 
-estar
+estar (preterite)
 estuve; estuviste; estuvo; estuvimos; estuvisteis; estuvieron
 
-ir
+ir (preterite)
 fui; fuiste; fue; fuimos; fuisteis; fueron
 
-hacer
+hacer (preterite)
 hice; hiciste; hizo; hicimos; hicisteis; hicieron
 
 cow
@@ -955,7 +955,7 @@ alguien
 five hundred
 quinientos
 
-venir
+venir (preterite)
 vine; viniste; vino; vinimos; vinisteis; vinieron
 
 noise
@@ -1024,7 +1024,7 @@ Dios
 neighbor
 vecino
 
-ver
+ver (preterite)
 vi; viste; vio; vimos; visteis; vieron
 
 to hate
@@ -1209,3 +1209,21 @@ dibujo animado
 
 playground
 patio de juego
+
+hablar (imperfect)
+hablaba; hablabas; hablaba; hablábamos; hablabais; hablaban
+
+hacer (imperfect)
+hacía; hacías; hacía; hacíamos; hacíais; hacían
+
+decir (imperfect)
+decía; decías; decía; decíamos; decíais; decían
+
+ser (imperfect)
+era; eras; era; éramos; erais; eran
+
+ir (imperfect)s
+iba; ibas; iba; ibamos; ibais; iban
+
+ver (imperfect)
+veía; veías; veía; veíamos; veíais; veían
