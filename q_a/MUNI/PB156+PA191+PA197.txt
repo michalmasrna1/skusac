@@ -167,7 +167,7 @@ DVMRP
 distance vector multicast routing protocol
 
 MOSPF
-multicast open shortest path first
+multicast open shortest path first, multicast OSPF
 
 PIM-DM
 protocol independent multicast - dense mode
@@ -209,7 +209,7 @@ AQM
 advanced queue management
 
 FAST
-fast aqm scalable tcp
+fast aqm scalable tcp, fast advanced queue management scalable transmission control protocol
 
 RBUDP
 reliable blast udp, reliable blast user datagram protocol
@@ -296,10 +296,10 @@ DHT
 distributed hash table
 
 MANET
-mobile ad hoc network
+mobile ad-hoc network
 
 VANET
-vehicular ad hoc network
+vehicular ad-hoc network
 
 WSN
 wireless sensor network
@@ -309,3 +309,87 @@ duplicate address detection
 
 CAN
 content addressable network
+
+DSR
+dynamic source routing
+
+AODV
+ad-hoc on demand distance vector routing
+
+RON
+resilient overlay network
+
+SDN
+software defined network
+
+RSU
+roadside unit
+
+SPOF
+single point of failure
+
+RYF
+robust yet fragile
+
+BLRS
+bi-directional line switched ring
+
+LACP
+link aggregation control protocol
+
+SSTP
+secure socket tunneling protocol
+
+VPLS
+virtual private lan service
+
+EAP
+extensible authentication protocol
+
+EAPOL
+EAP encapsulation over LAN, extensible authentication protocol encapsulation over local area network
+
+RADIUS
+remote authentication dial-in user service
+
+LEAP
+lilightweight EAP, lightweight extensible authentication protocol
+
+PEAP
+protected EAP, protected extensible authentication protocol
+
+TKIP
+temporal key integrity protocol
+
+PANA
+protocol for carrying authentication for network access
+
+TNC
+trusted network connect
+
+DMZ
+demilitarized zone
+
+TOR
+the onion router
+
+RINA
+recursive internetwork architecture
+
+BSS
+basic service set
+
+SSID
+service set identifier
+
+ESS
+extended service set
+
+WEP
+wired equivalent privacy
+
+WPA
+wifi protected access
+
+CCMP
+counter cipher mode with block chaining message authentication code protocol
