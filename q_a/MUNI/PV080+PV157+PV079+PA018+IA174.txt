@@ -296,7 +296,7 @@ PIN
 personal identification number
 
 NTLM
-new technology LAN manager, new technology local are network manager
+new technology LAN manager, new technology local area network manager
 
 HSM
 hardware security module
@@ -314,6 +314,7 @@ MLS
 multilevel system, multilevel security, multiple levels of security
 
 GSM
+global system for mobile communications
 
 LTE
 long-term evolution
@@ -355,7 +356,7 @@ SPA
 simple power analysis
 
 CPA
-correlation power analysis
+correlation power analysis, chosen plaintext attack
 
 SCADA
 supervisory control and data acquisition
@@ -377,3 +378,6 @@ complex event processing
 
 FDH
 full domain hash
+
+OAEP
+optimal asymmetric encryption padding
