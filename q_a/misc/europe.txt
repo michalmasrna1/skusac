@@ -1,50 +1,50 @@
-Albania
+Republic of Albania
 3 000 000
 
-Andorra
-80 000
+Principality of Andorra
+83 000
 
-Austria
+Republic of Austria
 9 000 000
 
-Belarus
+Republic of Belarus
 9 000 000
 
-Belgium
-11 500 000
+Kingdom of Belgium
+12 000 000
 
 Bosnia and Herzegovina
 3 000 000
 
-Bulgaria
+Republic of Bulgaria
 6 500 000
 
-Croatia
+Republic of Croatia
 4 000 000
 
-Cyprus
+Republic of Cyprus
 1 000 000
 
 Czech Republic
-10 500 000
+11 000 000
 
-Denmark
+Kingdom of Denmark
 6 000 000
 
-Estonia
+Republic of Estonia
 1 500 000
 
-Finland
+Republic of Finland
 5 500 000
 
-France
-65 000 000
+French Republic
+66 000 000
 
-Germany
+Federal Republic of Germany
 84 000 000
 
-Greece
-10 500 000
+Hellenic Republic
+10 000 000
 
 Hungary
 9 500 000
@@ -52,35 +52,35 @@ Hungary
 Iceland
 400 000
 
-Ireland
+Republic of Ireland
 5 000 000
 
-Italy
+Italian Republic
 59 000 000
 
-Kosovo
+Republic of Kosovo
+1 500 000
+
+Republic of Latvia
 2 000 000
 
-Latvia
-2 000 000
-
-Liechtenstein
+Principality of Liechtenstein
 40 000
 
-Lithuania
+Republic of Lithuania
 3 000 000
 
-Luxembourg
+Grand Duchy of Luxembourg
 650 000
 
-Malta
-500 000
+Republic of Malta
+550 000
 
-Moldova
+Republic of Moldova
 2 500 000
 
-Monaco
-37 000
+Principality of Monaco
+38 000
 
 Montenegro
 600 000
@@ -88,50 +88,50 @@ Montenegro
 Netherlands
 18 000 000
 
-North Macedonia
+Republic of North Macedonia
 2 000 000
 
-Norway
+Kingdom of Norway
 5 500 000
 
-Poland
+Republic of Poland
 38 000 000
 
-Portugal
+Portuguese Republic
 10 000 000
 
 Romania
 19 000 000
 
-Russia
-145 000 000
+Russian Federation
+144 000 000
 
-San Marino
+Republic of San Marino
 34 000
 
-Serbia
+Republic of Serbia
 7 000 000
 
-Slovakia
+Slovak Republic
 5 500 000
 
-Slovenia
+Republic of Slovenia
 2 000 000
 
-Spain
-47 000 000
+Kingdom of Spain
+48 000 000
 
-Sweden
-10 500 000
+Kingdom of Sweden
+11 000 000
 
-Switzerland
-8 500 000
+Swiss Confederation
+9 000 000
 
 Ukraine
 39 000 000
 
 United Kingdom
-68 000 000
+69 000 000
 
 Vatican City State
 800
