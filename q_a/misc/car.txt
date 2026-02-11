@@ -19,7 +19,7 @@ trunk lid
 uzáver palivovej nádrže
 fuel filler cap, fuel tank cap
 
-plyn
+plyn (pedál/systém)
 throttle
 
 hnací hriadeľ
